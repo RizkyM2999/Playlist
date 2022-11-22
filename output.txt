@@ -15,3 +15,5 @@ https://cdn.winten.workers.dev/6:/Data/1899.S01.COMPLETE.720p.10bit.WEBRip.2CH.x
 https://cdn.winten.workers.dev/6:/Data/1899.S01.COMPLETE.720p.10bit.WEBRip.2CH.x265.HEVC-PSA/1899.S01.COMPLETE.720p.10bit.WEBRip.2CH.x265.HEVC-PSA/1899.S01E07.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU1N2I5OTgtNDE2MS00ZTdmLWJlODktNDMwMGVmNzY5NmUxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg" group-title="1899", 1899 S01E08
 https://cdn.winten.workers.dev/6:/Data/1899.S01.COMPLETE.720p.10bit.WEBRip.2CH.x265.HEVC-PSA/1899.S01.COMPLETE.720p.10bit.WEBRip.2CH.x265.HEVC-PSA/1899.S01E08.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="test push" group-title=test push
+test push
