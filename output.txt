@@ -15,5 +15,7 @@ https://cdn.winten.workers.dev/6:/Data/1899.S01.COMPLETE.720p.10bit.WEBRip.2CH.x
 https://cdn.winten.workers.dev/6:/Data/1899.S01.COMPLETE.720p.10bit.WEBRip.2CH.x265.HEVC-PSA/1899.S01.COMPLETE.720p.10bit.WEBRip.2CH.x265.HEVC-PSA/1899.S01E07.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU1N2I5OTgtNDE2MS00ZTdmLWJlODktNDMwMGVmNzY5NmUxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg" group-title="1899", 1899 S01E08
 https://cdn.winten.workers.dev/6:/Data/1899.S01.COMPLETE.720p.10bit.WEBRip.2CH.x265.HEVC-PSA/1899.S01.COMPLETE.720p.10bit.WEBRip.2CH.x265.HEVC-PSA/1899.S01E08.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNhZjA3MTctOTFjNi00Mjg5LTk3ODctOGZkNDMyMjY3YWNhXkEyXkFqcGdeQXVyMTI2ODM1ODUw._V1_SX300.jpg" group-title="Movie", ‌‌Lyle, Lyle, Crocodile (2022)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNhZjA3MTctOTFjNi00Mjg5LTk3ODctOGZkNDMyMjY3YWNhXkEyXkFqcGdeQXVyMTI2ODM1ODUw._V1_SX300.jpg" group-title="Movie" Lyle, Lyle, Crocodile (2022)
 https://cdn.winten.workers.dev/6:/Data/Lyle.Lyle.Crocodile.2022.720p.WEB-DL.x265.10Bit-Pahe.in.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2E3MjQyOWQtZjFhNC00NDYxLWIxYmUtN2NiZjg0YmJhYTJkXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_SX300.jpg" group-title="Movie" Ngeri-Ngeri Sedap
+https://dl.berkas.eu.org/0:/Missing.Home.2022.720p.NF.WEB-DL.x264.900MB-Pahe.in.mkv
