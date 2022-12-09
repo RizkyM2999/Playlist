@@ -21,3 +21,57 @@ https://cdn.winten.workers.dev/6:/Data/Lyle.Lyle.Crocodile.2022.720p.WEB-DL.x265
 https://dl.berkas.eu.org/0:/Missing.Home.2022.720p.NF.WEB-DL.x264.900MB-Pahe.in.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWQzMDc5OTMtMjFiMy00M2I3LWIyZWMtODM4NTRhMGI2ZTRkXkEyXkFqcGdeQXVyNDAxNzcyNw@@._V1_SX300.jpg" group-title="Movie", Troll (2022)
 https://cdn.winten.workers.dev/6:/Data/Troll.2022.720p.NF.WEB-DL.x265.10Bit-Pahe.in.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGE2MDhjMTEtYzJlMS00Yjc2LWFiYWItMDcxZDJjMmJlNWQ3XkEyXkFqcGdeQXVyMjQwMjk0NjI@._V1_SX300.jpg" group-title="Movie", Wariors of Future (2022)
+https://cdn.winten.workers.dev/6:/Data/Warriors.of.Future.2022.720p.NF.WEB-DL.x265.10Bit-Pahe.in.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/610Ujb4UdbL._SL1500_.jpg" group-title="Uchuu Senkan Yamato 2202" Episode 01
+https://cdn.winten.workers.dev/6:/Data/%5BAnimebatch.id%5D_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Uchuu Senkan Yamato 2202 - 01.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/610Ujb4UdbL._SL1500_.jpg" group-title="Uchuu Senkan Yamato 2202" Episode 02
+https://cdn.winten.workers.dev/6:/Data/%5BAnimebatch.id%5D_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Uchuu Senkan Yamato 2202 - 02.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/610Ujb4UdbL._SL1500_.jpg" group-title="Uchuu Senkan Yamato 2202" Episode 03
+https://cdn.winten.workers.dev/6:/Data/%5BAnimebatch.id%5D_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Uchuu Senkan Yamato 2202 - 03.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/610Ujb4UdbL._SL1500_.jpg" group-title="Uchuu Senkan Yamato 2202" Episode 04
+https://cdn.winten.workers.dev/6:/Data/%5BAnimebatch.id%5D_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Uchuu Senkan Yamato 2202 - 04.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/610Ujb4UdbL._SL1500_.jpg" group-title="Uchuu Senkan Yamato 2202" Episode 05
+https://cdn.winten.workers.dev/6:/Data/%5BAnimebatch.id%5D_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Uchuu Senkan Yamato 2202 - 05.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/610Ujb4UdbL._SL1500_.jpg" group-title="Uchuu Senkan Yamato 2202" Episode 06
+https://cdn.winten.workers.dev/6:/Data/%5BAnimebatch.id%5D_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Uchuu Senkan Yamato 2202 - 06.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/610Ujb4UdbL._SL1500_.jpg" group-title="Uchuu Senkan Yamato 2202" Episode 07
+https://cdn.winten.workers.dev/6:/Data/%5BAnimebatch.id%5D_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Uchuu Senkan Yamato 2202 - 07.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/610Ujb4UdbL._SL1500_.jpg" group-title="Uchuu Senkan Yamato 2202" Episode 08
+https://cdn.winten.workers.dev/6:/Data/%5BAnimebatch.id%5D_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Uchuu Senkan Yamato 2202 - 08.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/610Ujb4UdbL._SL1500_.jpg" group-title="Uchuu Senkan Yamato 2202" Episode 09
+https://cdn.winten.workers.dev/6:/Data/%5BAnimebatch.id%5D_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Uchuu Senkan Yamato 2202 - 09.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/610Ujb4UdbL._SL1500_.jpg" group-title="Uchuu Senkan Yamato 2202" Episode 10
+https://cdn.winten.workers.dev/6:/Data/%5BAnimebatch.id%5D_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Uchuu Senkan Yamato 2202 - 10.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/610Ujb4UdbL._SL1500_.jpg" group-title="Uchuu Senkan Yamato 2202" Episode 11
+https://cdn.winten.workers.dev/6:/Data/%5BAnimebatch.id%5D_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Uchuu Senkan Yamato 2202 - 11.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/610Ujb4UdbL._SL1500_.jpg" group-title="Uchuu Senkan Yamato 2202" Episode 12
+https://cdn.winten.workers.dev/6:/Data/%5BAnimebatch.id%5D_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Uchuu Senkan Yamato 2202 - 12.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/610Ujb4UdbL._SL1500_.jpg" group-title="Uchuu Senkan Yamato 2202" Episode 13
+https://cdn.winten.workers.dev/6:/Data/%5BAnimebatch.id%5D_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Uchuu Senkan Yamato 2202 - 13.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/610Ujb4UdbL._SL1500_.jpg" group-title="Uchuu Senkan Yamato 2202" Episode 14
+https://cdn.winten.workers.dev/6:/Data/%5BAnimebatch.id%5D_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Uchuu Senkan Yamato 2202 - 14.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/610Ujb4UdbL._SL1500_.jpg" group-title="Uchuu Senkan Yamato 2202" Episode 15
+https://cdn.winten.workers.dev/6:/Data/%5BAnimebatch.id%5D_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Uchuu Senkan Yamato 2202 - 15.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/610Ujb4UdbL._SL1500_.jpg" group-title="Uchuu Senkan Yamato 2202" Episode 16
+https://cdn.winten.workers.dev/6:/Data/%5BAnimebatch.id%5D_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Uchuu Senkan Yamato 2202 - 16.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/610Ujb4UdbL._SL1500_.jpg" group-title="Uchuu Senkan Yamato 2202" Episode 17
+https://cdn.winten.workers.dev/6:/Data/%5BAnimebatch.id%5D_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Uchuu Senkan Yamato 2202 - 17.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/610Ujb4UdbL._SL1500_.jpg" group-title="Uchuu Senkan Yamato 2202" Episode 18
+https://cdn.winten.workers.dev/6:/Data/%5BAnimebatch.id%5D_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Uchuu Senkan Yamato 2202 - 18.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/610Ujb4UdbL._SL1500_.jpg" group-title="Uchuu Senkan Yamato 2202" Episode 19
+https://cdn.winten.workers.dev/6:/Data/%5BAnimebatch.id%5D_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Uchuu Senkan Yamato 2202 - 19.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/610Ujb4UdbL._SL1500_.jpg" group-title="Uchuu Senkan Yamato 2202" Episode 20
+https://cdn.winten.workers.dev/6:/Data/%5BAnimebatch.id%5D_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Uchuu Senkan Yamato 2202 - 20.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/610Ujb4UdbL._SL1500_.jpg" group-title="Uchuu Senkan Yamato 2202" Episode 21
+https://cdn.winten.workers.dev/6:/Data/%5BAnimebatch.id%5D_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Uchuu Senkan Yamato 2202 - 21.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/610Ujb4UdbL._SL1500_.jpg" group-title="Uchuu Senkan Yamato 2202" Episode 22
+https://cdn.winten.workers.dev/6:/Data/%5BAnimebatch.id%5D_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Uchuu Senkan Yamato 2202 - 22.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/610Ujb4UdbL._SL1500_.jpg" group-title="Uchuu Senkan Yamato 2202" Episode 23
+https://cdn.winten.workers.dev/6:/Data/%5BAnimebatch.id%5D_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Uchuu Senkan Yamato 2202 - 23.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/610Ujb4UdbL._SL1500_.jpg" group-title="Uchuu Senkan Yamato 2202" Episode 24
+https://cdn.winten.workers.dev/6:/Data/%5BAnimebatch.id%5D_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Uchuu Senkan Yamato 2202 - 24.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/610Ujb4UdbL._SL1500_.jpg" group-title="Uchuu Senkan Yamato 2202" Episode 25
+https://cdn.winten.workers.dev/6:/Data/%5BAnimebatch.id%5D_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Uchuu Senkan Yamato 2202 - 25.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/610Ujb4UdbL._SL1500_.jpg" group-title="Uchuu Senkan Yamato 2202" Episode 26
+https://cdn.winten.workers.dev/6:/Data/%5BAnimebatch.id%5D_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Uchuu Senkan Yamato 2202 - 26 END.mkv
