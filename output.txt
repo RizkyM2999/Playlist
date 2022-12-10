@@ -75,3 +75,5 @@ https://cdn.winten.workers.dev/6:/Data/%5BAnimebatch.id%5D_Kapal%20Luar%20Angkas
 https://cdn.winten.workers.dev/6:/Data/%5BAnimebatch.id%5D_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Uchuu Senkan Yamato 2202 - 25.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/610Ujb4UdbL._SL1500_.jpg" group-title="Uchuu Senkan Yamato 2202", Episode 26
 https://cdn.winten.workers.dev/6:/Data/%5BAnimebatch.id%5D_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Kapal%20Luar%20Angkasa%20Yamato%202202%20720P/[Animebatch.id]_Uchuu Senkan Yamato 2202 - 26 END.mkv
+#EXTINF:-1 tvg-logo="http://www.impawards.com/2022/posters/guillermo_del_toros_pinocchio_xlg.jpg" group-title="Movie", Guillermo del Toro's Pinocchio 2022
+https://cdn.winten.workers.dev/6:/Data/Guillermo.del.Toro%27s.Pinocchio.2022.720p.10bit.WEBRip.6CH.x265.HEVC-PSA/Guillermo.del.Toro's.Pinocchio.2022.720p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
