@@ -36,4 +36,5 @@
 "Uchuu Senkan Yamato 2202", Episode 24
 "Uchuu Senkan Yamato 2202", Episode 25
 "Uchuu Senkan Yamato 2202", Episode 26
-"Movie", Guillermo del Toro's Pinocchio 2022
+"Movie", Guillermo del Toro's Pinocchio (2022)
+"Movie", Dragon Ball Super: Super Hero (2022)
