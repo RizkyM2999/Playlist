@@ -79,3 +79,5 @@ https://cdn.winten.workers.dev/6:/Data/%5BAnimebatch.id%5D_Kapal%20Luar%20Angkas
 https://cdn.winten.workers.dev/6:/Data/Guillermo.del.Toro%27s.Pinocchio.2022.720p.10bit.WEBRip.6CH.x265.HEVC-PSA/Guillermo.del.Toro's.Pinocchio.2022.720p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmFjNzkwOGYtMzBlYS00NmI4LWIwOTAtMDhhMjY4ZDkwNzI0XkEyXkFqcGdeQXVyODUyNjMyOTE@._V1_SX300.jpg" group-title="Movie", Dragon Ball Super: Super Hero (2022)
 https://cdn.winten.workers.dev/6:/Data/Dragon%20Ball%20Super%20-%20Super%20Hero%20%282022%29%20720p%20BluRay%20x265%2010Bit-Pahe.in2.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTE5NzNhNzYtY2YxOC00ZjY2LTk5MzctNWY0NDdiN2IxNzc0XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_SX300.jpg" group-title="Movie", Detective Conan: The Bride of Halloween (2022)
+https://cdn.winten.workers.dev/6:/Data/Detective.Conan.The.Bride.of.Halloween.2022.720p.BluRay%20x265.10Bit-Pahe.in.mkv
